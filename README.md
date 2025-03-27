@@ -13,7 +13,7 @@ A powerful AI-powered chatbot built using Ollama and LangChain for seamless and 
 
 Ensure you have the following installed:
 * Python 3.8+
-* Ollama
+* Ollama and Model 
 * LangChain
 
 # **Create a Virtual Environment**
